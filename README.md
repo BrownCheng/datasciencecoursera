@@ -1,1 +1,5 @@
 # datasciencecoursera
+
+. A
+. B
+. C
